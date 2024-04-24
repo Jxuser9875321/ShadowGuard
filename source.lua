@@ -1,7 +1,7 @@
 --[[
 
 Rayfield Interface Suite
-by Sirius
+by Siriuss
 
 shlex | Designing + Programming
 iRay  | Programming
